@@ -32,3 +32,5 @@ Understand sales trends and identify business growth opportunities.</li>
 <h3>Conclusion</h3>
 
 This project simulates a professional data analysis workflow for a real business challenge, helping businesses make informed decisions through data.
+<br>
+<a href="https://github.com/Harshita2815/Sales_Insights/blob/main/db_dump.sql">DATASET USED</a>
